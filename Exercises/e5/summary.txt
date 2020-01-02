@@ -1,0 +1,66 @@
+Data set 1:		X		Y
+mean			8.7177		12.522874
+std			12.1555		6.639964
+min			-22.6359	-2.565088
+max			35.2371		27.384153
+correlation coeff		0.950326
+
+
+Based on the correlation coefficient value there is a strong positive linear relationship between x and y. This means as x gets larger, y also gets larger.
+
+
+
+Data set 2:		X	 	Y
+mean			-0.710787	-0.748987
+std			11.4816		6.257918
+min			-33.2711	-18.621804
+max			27.647		14.147315
+correlation coeff		0.955153
+
+
+Based on the correlation coefficient value there is a strong positive linear relationship between x and y. This means as x gets larger, y also gets larger.
+
+
+Data set 3:		X		Y
+mean			0.968907	8.508535
+std			2.23556		1.149301
+min			-2.44906	6.641734
+max			4.51888		10.551871
+correlation coeff		0.981937
+
+
+Based on the correlation coefficient value there is a strong positive linear relationship between x and y. This means as x gets larger, y also gets larger.
+
+
+
+Data set 4:		X		Y
+Mean			49.9051		18.553837
+Std			28.5086		16.545896
+Min			0		0.000000
+Max			87.3767		44.565040
+correlation coeff		-0.081193
+
+
+Based on the correlation coefficient value there is a very weak linear relationship between x and y. This means there may still be a relationship but it is not linear.
+
+
+Data set 5:		X		Y
+Mean			49.91		18.555525
+Std			28.5		16.540796
+Min			4.33789		0.055498
+Max			91.0529		49.934197
+correlation coeff		-0.088236
+
+
+Based on the correlation coefficient value there is a very weak linear relationship between x and y. This means there may still be a relationship but it is not linear.
+
+
+Data set 6:		X		Y
+Mean			7.21616		7.602215
+Std			11.9216		11.764382
+Min			-24.3338	-22.956357
+Max			35.4021		36.079874
+correlation coeff		0.935069
+
+
+Based on the correlation coefficient value there is a strong positive linear relationship between x and y. This means as x gets larger, y also gets larger.

@@ -1,0 +1,22 @@
+1)
+
+Taking the square root of each datapoint in the weekday comments column and taking the log of each datapoint in the weekend comments column got us closest to satisfying the assumptions of a T-test. 
+
+
+2)
+
+If we reject the null hypothesis in the original T-test and transformed data T-test that means we can conclude that the average number of comments on weekdays is different from the average number of comments on weekends.
+
+
+3)
+
+I believe performing the T-test on the transformed data is a better approach because we are first trying to make the data as normal as possible with equal variances before doing the T-test. This is appropriate to do since we are satisfying the assumptions of the T-test before performing it.
+
+
+4)
+
+the weekday mean:  1825.065384615385
+the weekend mean:  1270.826923076923
+
+After calculating the average comments for the weekdays and weekends we can conclude there were greater number of reddit comments posted in Canada on weekdays versus weekends. 
+
