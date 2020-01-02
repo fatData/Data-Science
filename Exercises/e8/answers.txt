@@ -1,0 +1,11 @@
+1)
+
+After running the tests multiple times, I believe it narrows down to the KNN and SVC tests. However, if I have to conclude the best test for the colour prediction task than it would be KNN because the test score is slightly higher and the output image has slightly greater distinction between colours.
+
+I believe KNN does slightly better because we know that KNN does well with large number of data points that are not linearly seperable.
+
+2)
+
+Although the predictions are not exactly correct, we can conclude that they are reasonable because when analyzing the distance between the correct city and predicted city, it is acceptable.
+
+Adding features such as, wind speeds and humidity levels may potentially better the predictions. However, in general the more data we have the better results we can expect. 
