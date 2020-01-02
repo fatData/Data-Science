@@ -1,0 +1,12 @@
+1)
+
+I believe I got a better result with the Kalman filter mainly because it was better at modelling the spikes that occurred in the dataset, therefore providing prominent peaks in the plotting. Whereas the LOESS filter did not model prominent peaks at the areas where data points were spiked.
+
+From this I noticed the LOESS filter had difficulties plotting data points that were outside the general trend versus the Kalman filter. I believe a reason for the Kalman filter plot being more accurate could be because we were able to provide observations and patterns about the dataset to the filter.
+
+
+2)
+
+Other data about the observations could have helped make better predictions by possibly manipulating the transition matrix with information about the speed or using the other observation data to manipulate the other parameters of the filter. 
+
+Another reason this additional data would help make better predictions is because we will have more information on external factors/behaviours that influence the data being plotted, therefore providing a more insightful understanding of our dataset. 
