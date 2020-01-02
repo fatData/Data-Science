@@ -1,0 +1,8 @@
+1)The equation of a best fit line is y=mx+b which is represented by the our equation
+y = data['timestamp']*fit.slope + fit.intercept. This equation returns an object of type Series which holds the generated y-values which are used with existing x-values to plot the regression line. 
+
+The data['timestamp’] are the x-values, fit.slope is the rate of change in dog ratings as months go by and fit.intercept is the y-intercept.2)
+
+It produces a fit line on the graph because the fit.slope and fit.intercept values are calculated based on our dataset.
+
+The created_at and timestamp values are paired correctly because they represent the same values with the same indexes, but in different formats. 
