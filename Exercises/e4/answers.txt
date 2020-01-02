@@ -1,0 +1,8 @@
+1)
+
+Daily temperatures are not a good way to predict population density, because after calculating the correlation coefficient of the 2 series(temperature and population density) we get the result 0.001228271497081851. This means we can conclude that the two variables are not related because the coefficient value is very close to 0.
+
+2)
+
+Working with compressed data might be inefficient but working with uncompressed .json data has greater overhead relatively speaking. Therefore, we chose to work with a compressed file.
+
