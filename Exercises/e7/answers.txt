@@ -1,0 +1,13 @@
+1)
+
+Looking at the histogram, I believe the residuals are close enough to being normal. 
+
+We can in fact conclude that the ratings are increasing over time.
+
+
+2)
+
+Yes, I believe the new better prediction is doing a better job of capturing the true signal in the noise. It seems that producing more accurate temperature predictions makes a big difference when finding true signal.
+
+
+
