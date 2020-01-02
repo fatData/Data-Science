@@ -1,0 +1,20 @@
+1)
+
+When doing the same calculations with NumPy and Pandas, I found the level of easiness to be the same for both.
+
+In terms of readability, I found Pandas to be better because when outputting data it is more informative with labels, making it easier to understand.
+
+
+2)
+
+Running time of pivot_months_pandas function:   16.9 ms ± 703 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
+
+Running time of pivot_months_loops function:    483 ms ± 29.7 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
+
+pivot_months_pandas function is faster and this difference can be explained by the underlying data structure.
+
+The Pandas function is based on NumPy arrays, which are arrays based on the C programming language, whereas the
+pivot_months_loops function is a Python function using Python arrays, which requires greater overhead in
+terms of memory than C. Therefore, we see a faster run time in the Pandas function. 
+
+
