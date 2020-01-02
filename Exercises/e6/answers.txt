@@ -1,0 +1,19 @@
+1)
+
+It depends on how we interpret the sentence "Instructors are the ones who can get more useful information from the search feature, so perhaps non-instructors didn't touch the search feature because it was genuinely not relevant to them." In general, I believe we are in-fact p-hacking but the extent of it depends on whether or not we believe that looking at all users is unrealistic for finding useful information about the search feature.
+
+
+
+2)
+
+C(7, 2) = 7 choose 2 = 21 tests would be run.
+
+1 Ð (.95)^21 = 1 - .34056 = .659 = 0.66 probability of having all conclusions correct just by chance
+
+
+
+3)
+
+Rank(fastest-slowest): qs1, partition_sort, qs5, qs4, qs3, qs2, merge1
+
+Pairs with indistinguishable running times: (merge1, qs2), (merge1, qs3), (qs2, qs3), (qs4, qs5)
